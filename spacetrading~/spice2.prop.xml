@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<properties>
+  <key name="inventoryItemArtifactModel" instanceid="#83A34040" />
+  <float name="inventoryItemArtifactNormalScale">2</float>
+  <float name="inventoryItemArtifactPlumpScale">2</float>
+  <uint32 name="spaceEconomySpiceColor">6724095</uint32>
+  <texts name="spaceToolDescription">
+    <text tableid="#5E6117CD" instanceid="#5F0CCFAA">Blue Spice</text>
+  </texts>
+  <texts name="spaceToolDetailDescription">
+    <text tableid="#5E6117CD" instanceid="#DDCCA9F3">A deep blue spice used primarily as a sleeping aid.</text>
+  </texts>
+  <uint32s name="spaceToolImageColors">
+    <uint32>4284914175</uint32>
+  </uint32s>
+  <key name="spaceToolImageID" groupid="ufotools~" instanceid="#A690DC79" typeid="png" />
+  <float name="spaceTradingBaseCost">5230</float>
+  <float name="spaceTradingChanceBlueEasy">0,77</float>
+  <float name="spaceTradingChanceBlueHard">0,19</float>
+  <float name="spaceTradingChanceRedEasy">0</float>
+  <float name="spaceTradingChanceRedHard">0</float>
+  <float name="spaceTradingChanceYellowEasy">0</float>
+  <float name="spaceTradingChanceYellowHard">0</float>
+  <texts name="spaceTradingNeed">
+    <text tableid="spacegame" instanceid="#043AF42A">We were wondering if you've got any Blue Spice available.</text>
+  </texts>
+  <texts name="spaceTradingNoNeed">
+    <text tableid="spacegame" instanceid="#043AF42B">Please take a look at our fine goods available. I'm sure we can agree on a trade.</text>
+  </texts>
+  <key name="spaceTradingType" instanceid="spice" />
+</properties>

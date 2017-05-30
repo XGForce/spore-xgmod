@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<properties>
+  <key name="inventoryItemArtifactModel" instanceid="#83A34046" />
+  <float name="inventoryItemArtifactNormalScale">2</float>
+  <float name="inventoryItemArtifactPlumpScale">2</float>
+  <uint32 name="spaceEconomySpiceColor">12211667</uint32>
+  <texts name="spaceToolDescription">
+    <text tableid="#5E6117CD" instanceid="#968CB10E">Purple Spice</text>
+  </texts>
+  <texts name="spaceToolDetailDescription">
+    <text tableid="#5E6117CD" instanceid="#7E688767">A purple-ish spice used in making a sweet-flavored purple pudding.</text>
+  </texts>
+  <uint32s name="spaceToolImageColors">
+    <uint32>4290401747</uint32>
+  </uint32s>
+  <key name="spaceToolImageID" groupid="ufotools~" instanceid="#A690DC79" typeid="png" />
+  <float name="spaceTradingBaseCost">14625</float>
+  <float name="spaceTradingChanceBlueEasy">0</float>
+  <float name="spaceTradingChanceBlueHard">0,11</float>
+  <float name="spaceTradingChanceRedEasy">0</float>
+  <float name="spaceTradingChanceRedHard">0,01</float>
+  <float name="spaceTradingChanceYellowEasy">0,02</float>
+  <float name="spaceTradingChanceYellowHard">0,04</float>
+  <texts name="spaceTradingNeed">
+    <text tableid="spacegame" instanceid="#043AEF67">Got any Purple?</text>
+  </texts>
+  <texts name="spaceTradingNoNeed">
+    <text tableid="spacegame" instanceid="#043AEF66">We've got a special on Purple right now.</text>
+  </texts>
+  <key name="spaceTradingType" instanceid="spice" />
+</properties>

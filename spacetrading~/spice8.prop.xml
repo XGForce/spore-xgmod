@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<properties>
+  <key name="inventoryItemArtifactModel" instanceid="#83A34045" />
+  <float name="inventoryItemArtifactNormalScale">2</float>
+  <float name="inventoryItemArtifactPlumpScale">2</float>
+  <uint32 name="spaceEconomySpiceColor">4294934528</uint32>
+  <texts name="spaceToolDescription">
+    <text>Orange Spice</text>
+  </texts>
+  <texts name="spaceToolDetailDescription">
+    <text>A spice used to disguise the taste of other spices.</text>
+  </texts>
+  <uint32s name="spaceToolImageColors">
+    <uint32>4294934528</uint32>
+  </uint32s>
+  <key name="spaceToolImageID" groupid="ufotools~" instanceid="#A690DC79" typeid="png" />
+  <float name="spaceTradingBaseCost">2000</float>
+  <float name="spaceTradingChanceBlueEasy">0</float>
+  <float name="spaceTradingChanceBlueHard">0</float>
+  <float name="spaceTradingChanceRedEasy">0,15</float>
+  <float name="spaceTradingChanceRedHard">0,1</float>
+  <float name="spaceTradingChanceYellowEasy">0,1</float>
+  <float name="spaceTradingChanceYellowHard">0,03</float>
+  <texts name="spaceTradingNeed">
+    <text tableid="spacegame" instanceid="#043AF039">Wow, we're really crave some Red Spice.</text>
+  </texts>
+  <texts name="spaceTradingNoNeed">
+    <text tableid="spacegame" instanceid="#043AF038">Please take a look at our fine goods available.</text>
+  </texts>
+  <key name="spaceTradingType" instanceid="spice" />
+</properties>

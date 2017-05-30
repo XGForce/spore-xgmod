@@ -1,0 +1,24 @@
+assetbrowser~	0xCA14DE92
+spacetrading~	0x034D97FA
+spice1
+animations~     0x00000000
+ufotools~	0x3064CB38
+spacegame
+spice
+spice2
+spice3
+spice4
+spice5
+spice6
+spice7
+auto_spacetrading~_spice7
+locale~	0x02FABF01
+spice8
+auto_spacetrading~_spice8
+spice9
+auto_spacetrading~_spice9
+sporemaster
+names
+A690DC00
+A690DC01
+A690DC02
